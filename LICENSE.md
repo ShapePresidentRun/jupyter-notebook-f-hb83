@@ -1,4 +1,4 @@
-
+Get the ultimate Jupyter Notebook for macOS (через Anaconda) plugin with Jupyter Notebook for macOS (через Anaconda) secure Plugin: symbolic-computation & interactive-dashboards.
 
 
 
